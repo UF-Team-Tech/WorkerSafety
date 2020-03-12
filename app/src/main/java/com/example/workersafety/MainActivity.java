@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     //this is emily's comment
+    //second
     private AppBarConfiguration mAppBarConfiguration;
 
     @Override
